@@ -12,3 +12,4 @@ class MainActivity : AppCompatActivity() {
 
 
 //UPDATE EXAMPLE
+//Update via terminal
